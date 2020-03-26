@@ -53,6 +53,7 @@ void test_naive_prime_algorithm(unsigned long long int number)
 
 int main(void) 
 {
+    //you could test for 2305843009213693951
     system("clear");
     signed long long int number;
     do
